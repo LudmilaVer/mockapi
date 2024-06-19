@@ -1,0 +1,20 @@
+.Header {
+    padding: 38px 130px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.HeaderNav {
+    padding: 5px;
+}
+
+.HeaderNav a {
+    padding: 9px 60px;
+    border-right: 1px solid #00000033;
+    text-decoration: none;
+}
+
+.Header a:last-of-type {
+    border-right: none;
+}
